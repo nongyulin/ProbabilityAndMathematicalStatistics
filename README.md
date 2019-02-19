@@ -6,7 +6,7 @@
 # 概率论
 ## 1. 概率论简介
 提纲<br>
-![图1](lec_1.jpg)
+![图1](lec_1.jpg)      
 PDF笔记：[概率论简介](01_Introduction_0913.pdf)     
 
 
