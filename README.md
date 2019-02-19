@@ -12,7 +12,7 @@ PDF笔记：[概率论简介](01_Introduction_0913.pdf)
 ## 2. 组合分析(a)
 提纲<br>
 ![图2](lec_2.jpg)     
-PDF笔记：[组合分析(a)](02_Combinatorics_0915.pdf)   
+PDF笔记：[组合分析(a)](02_Combinatorics_0915.pdf) 
 
 
 
