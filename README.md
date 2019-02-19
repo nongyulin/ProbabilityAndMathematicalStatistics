@@ -1,4 +1,4 @@
-[[Home](https://simplelp.github.io/) | [GitHub](https://github.com/SimpleLP/ProbabilityAndMathematicalStatistics)]     
+【[Home](https://simplelp.github.io/) | [GitHub](https://github.com/SimpleLP/ProbabilityAndMathematicalStatistics)】     
 本系列文章归纳整理概率论与数理统计的内容
 
 -------------------------------------------------------------
