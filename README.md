@@ -24,3 +24,7 @@ PDF笔记：[组合分析(a)](02_Combinatorics_0915.pdf)
 [统计学---郑少为](http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2820/index.html)      
 [数理统计---郑少为](http://www.stat.nthu.edu.tw/~swcheng/Teaching/stat3875/index.php)       
 [数理统计与数据分析---高明](http://dase.ecnu.edu.cn/mgao/teaching/UStat_2018_Fall/MSDA.html)      
+"Mathematical Statistics and Data Analysis", JohnA.Rice著         
+"Statistical Inference"，Casella G.著        
+《概率论与数理统计》，茆诗松等著        
+[概率论与数理统计](https://www.bilibili.com/video/av17582696?from=search&seid=10229922130523106701)，中科大缪柏其教授
