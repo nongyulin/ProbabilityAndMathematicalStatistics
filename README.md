@@ -6,14 +6,18 @@
 # 概率论
 ## 1. 概率论简介
 提纲<br>
-![图1](lec_1.jpg)      
+![图1](lec_1.jpg) <br>
 PDF笔记：[概率论简介](01_Introduction_0913.pdf)     
 
 ## 2. 组合分析(a)
 提纲<br>
-![图2](lec_2.jpg)     
+![图2](lec_2.jpg) <br>
 PDF笔记：[组合分析(a)](02_Combinatorics_0915.pdf)    
 
+## 3. 组合分析(b)
+提纲<br>
+![图3](lec_3.jpg) <br>
+PDF笔记：[组合分析(b)](02_Combinatorics_0920.pdf)
 
 
 
