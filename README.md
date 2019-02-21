@@ -19,7 +19,10 @@ PDF笔记：[组合分析(a)](02_Combinatorics_0915.pdf)
 ![图3](lec_3.jpg) <br>
 PDF笔记：[组合分析(b)](02_Combinatorics_0920.pdf)
 
-
+## 4. 概率论公理(a)
+提纲，不让》
+![图4](lec_3.jpg) <br>
+PDF笔记：[概率论公理(a)](03_AxiomProbability_0920.pdf)
 
 ---------------------------------------------------------
 
