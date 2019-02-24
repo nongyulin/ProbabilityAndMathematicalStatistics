@@ -24,6 +24,17 @@ PDF笔记：[组合分析(b)](02_Combinatorics_0920.pdf)
 ![图4](lec_4.jpg) <br>
 PDF笔记：[概率论公理(a)](03_AxiomProbability_0920.pdf)
 
+## 5. 概率论公理（b）
+提纲<br>
+![图5](lec_5.jpg) <br>
+PDF笔记：[概率论公理（b）](03_AxiomProbability_0922.pdf) 
+
+## 5. 概率论公理（c）
+提纲<br>
+![图6](lec_6.jpg) <br>
+PDF笔记：[概率论公理（c）](03_AxiomProbability_0927.pdf) 
+
+
 ---------------------------------------------------------
 
 # 参考资料
